@@ -47,3 +47,16 @@ h2{
     background: #55a398;
     color:white;
 }
+
+/*13 hex simplificado */
+
+.simple-hex{
+    /* color: #333333; */
+    color: #333333;
+    /* quando tem 2 omes ou letras iguais pode cortar ex: 333 nesse caso */
+}
+.simple-hex-2{
+    /* color: #aa55ff; */
+    color: #aa55ff;
+/* nesse caso ficaria #a5f. Não influencia na cor*/
+}
