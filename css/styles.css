@@ -60,3 +60,13 @@ h2{
     color: #aa55ff;
 /* nesse caso ficaria #a5f. Não influencia na cor*/
 }
+
+
+/* 14 rgb */
+.rgb{
+    color: rgb(255,0,0);
+}
+
+.mixed-rgb{
+    color: rgb(199,21,47);
+}
